@@ -1,5 +1,5 @@
 name: torr9_mobile
-description: "A new Flutter project."
+description: "A modern, high-performance mobile client for Torr9, featuring real-time chat, torrent management, and a premium dark-themed UI."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -37,7 +37,7 @@ dependencies:
   shared_preferences: ^2.5.5
   http: ^1.6.0
   path_provider: ^2.1.5
-  share_plus: ^13.1.0
+
   file_saver: ^0.3.1
   permission_handler: ^12.0.1
   cached_network_image: ^3.4.1
