@@ -4,7 +4,7 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
     <application
-        android:label="torr9_mobile"
+        android:label="Torr9 Mobile"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
